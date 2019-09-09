@@ -3,4 +3,4 @@ app = Flask (__name__)
 
 @app.route('/')
 def index():
-    return 'Welcome to My Home'
+    return 'this website using Flask as a framework'
